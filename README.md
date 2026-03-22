@@ -24,8 +24,7 @@ Proyecto de Inteligencia Artificial que implementa un **sistema de recomendació
 
 1. Clonar o descargar el repositorio:  
 ```bash
-git clone <URL-del-repositorio>
-cd nombre-del-repositorio
+python recomendacion_libros.py
 
 ```
 ---
